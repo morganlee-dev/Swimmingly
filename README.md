@@ -11,10 +11,11 @@ The goal for Swimmingly is to deploy as a site where users are able to upload a 
 * Stroke Comparison
 
 ### Using the Program
+To begin using the programme head to [Swimmingly](https://swimmingly.onrender.com/)
+
 This will be updated as the project is developed.
 
 ### Currently in Development
-* Site Deployment
 * Stroke Phase Detection
 * Stroke Count
 * Record Distance per Stroke
